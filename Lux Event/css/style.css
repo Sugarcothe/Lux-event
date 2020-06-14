@@ -1,0 +1,107 @@
+body {
+    background: #E5E5E5;
+    /* width: 1440px;
+    height: 2045px;
+    left: 0px;
+    top: 121px; */
+}
+
+.details-icon  {
+  color: #144D8A;
+}
+
+.venue-header {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 32px;
+    color: #144D8A;
+}
+.details-header {
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
+    color: #144D8A;
+}
+
+
+h4 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 53px;
+    color: #144D8A;
+}
+
+#form .mt-4{
+    padding-left: 2rem;
+
+}
+
+.btn {
+    border-radius: 5px;
+    
+} 
+
+.sign-in {
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 0;
+    color: #1C1717;
+    font-family:' Poppins';
+    font-size: 18px;
+    line-height: 27px;
+}
+.sign-up {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.7118px;
+    line-height: 21px;
+    text-align: center;
+    color: #1C1717;
+    margin: 5rem;
+}
+.card-body {
+    padding: 4rem;
+}
+.text-center {
+    padding-top: 0;
+    text-align: center;
+    font-size: 31px;
+
+}
+
+.img-img {
+    margin-top: 6rem;
+    width: auto;
+    height: auto;
+}
+    
+
+.light-button {
+    align-items: center;
+    border-radius: 10px;
+    outline-color: #F59725;
+}
+
+.lighter {
+    outline-color: #F59725;
+}
+
+.btn-details {
+    outline-color: #F59725; 
+}
+
+.btn-details2 {
+    color: white;
+    background: #F59725;
+    border-radius: 5px;
+    padding-left: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
